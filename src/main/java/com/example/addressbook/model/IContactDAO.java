@@ -3,8 +3,7 @@ package com.example.addressbook.model;
 import java.util.List;
 
 /**
- * Interface for the Contact Data Access Object that handles
- * the CRUD operations for the Contact class with the database.
+ * Interface for Database connection to application
  */
 public interface IContactDAO {
     /**
